@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enkk17
 - 👀 I’m interested in in expanding my knowledge in computer languages.
-- 🌱 I’m currently learning c++,pyton,java.
+- 🌱 I’m currently learning c++ and python.
 
 <!---
 Enkk17/Enkk17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
