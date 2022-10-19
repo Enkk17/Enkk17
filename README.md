@@ -1,5 +1,3 @@
----
-
 # 💫 About Me:
 <br>    👋 Hi, I’m @Enkk17<br>    👀 I’m interested in in expanding my knowledge in computer languages.<br>    🌱 I’m currently learning c++ and python.<br>
 
@@ -10,7 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Enkk17&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Enkk17&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enkk17&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 # CodewarsBadge
