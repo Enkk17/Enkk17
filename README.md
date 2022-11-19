@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m @Enkk17<br>    👀 I’m interested in in expanding my knowledge in computer languages.<br>    🌱 I’m currently learning c++,python adn java.<br>
+<br>    👋 Hi, I’m @Enkk17<br>    👀 I’m interested in in expanding my knowledge in computer languages.<br>    🌱 I’m currently learning c++,python and java.<br>
 
 
 # 💻 Tech Stack:
